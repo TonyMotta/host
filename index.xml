@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>el rss de mi web</title>
+    <link>rss/index2.html</link>
+    <description>noticias ramdom</description>
+    <item>
+      <title>Nuevo récord Guinness: un hombre tomó una taza de café en 3 segundos</title>
+      <link>rss/index2.html</link>
+      <description>Ese curioso récord acaba de ser roto en Alemania, cuando un hombre logró tomar una taza de café (caliente, por supuesto) en apenas 3,12 segundos.</description>
+    </item>
+    <item>
+      <title>La micronación estadounidense donde puedes ir preso por posesión de cebollas o espinacas</title>
+      <link>rss/index2.html</link>
+      <description>Una pequeña micronación de 11 acres en Nevada sólo tiene 38 habitantes y acoge a turistas, pero no lleves cebollas ni espinacas o podrías encontrarte entre rejas.</description>
+    </item>
+    <item>   
+    <title>Una mujer da a luz en un andén de la estación de Sants de Barcelona</title>
+    <link>rss/index2.html</link>
+    <description>Una dotación de los Mossos dEsquadra ha asistido este lunes a una mujer que se ha puesto de parto
+     en un andén de la estación de Sants de Barcelona, donde ha dado a luz a una niña que se llamará María del Carmen
+      y que se encuentra en buen estado de salud, igual que la madre</description>
+      </item>
+  </channel>
+</rss>
